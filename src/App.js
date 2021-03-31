@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1> welcome to Malnad Gidda </h1>
+      <h1> Welcome to Malnad Gidda Gaushala</h1>
     </div>
   );
 }
